@@ -54,7 +54,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <div class="form-group">
                             <button type="submit" class="btn btn-block btn-primary">Register</button>
                         </div>
-                        <center><a href="index.html">Go to login</a></center>
+                        <center><a href="index.php">Go to login</a></center>
                     </form>
                     <br>  
                 </div> 
